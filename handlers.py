@@ -14,7 +14,6 @@ logging.basicConfig(level=logging.INFO)
 
 router = Router()
 
-
 @router.message(Command('start'))
 async def cmd_start(message: Message, state: FSMContext):
     admin_id = db.get_admin_id()
@@ -34,7 +33,7 @@ async def cmd_help(message: Message):
 
 @router.message(Command('contact'))
 async def cmd_contact(message: Message):
-    await message.answer('Художница🖌️- @Enotkruty, создатель бота 💻- @Billy_WL, Исходный код: https://github.com/B1llyWL/Zuzucut_bot')
+    await message.answer('Художница🖌️- @Enotkruty, создатель бота 💻- @Billy_W')
 
 @router.message(Command('bot'))
 async def cmd_bot(message: Message):
@@ -48,7 +47,8 @@ async def cmd_bot(message: Message):
         "🛡️ <b>Защита от спама:</b>\n"
         "Чтобы бот работал стабильно для всех, включена защита от перегрузок.\n"
         "Пожалуйста, не отправляйте слишком много сообщений подряд (лимит: 20 сообщений в минуту).\n\n"
-        "Спасибо за понимание! ❤️",
+        "Спасибо за понимание! ❤️\n\n"
+        "Исходный код: https://github.com/B1llyWL/Zuzucut",
         parse_mode = 'HTML'
         )
 
