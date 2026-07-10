@@ -34,11 +34,11 @@
 <details>
 <summary>Admin</summary>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img width="48%" alt="admin"
+  <img width="48%" alt="admin"  src="https://github.com/user-attachments/assets/85f6f6f1-496d-4b37-8d02-a46d260e12a4" />
   <img width="48%" alt="admin_1" src="https://github.com/user-attachments/assets/2b05d758-7600-4334-891d-399a3d6d1a18" />
-  <img width="48%" alt="admin_templates" src="https://github.com/user-attachments/assets/3d6120dd-c9a6-4e8e-bfd6-8398c968b032" />
+  <img width="48%" alt="admin_templates" src="https://github.com/user-attachments/assets/e27cf50b-c576-4dc2-83a5-15e0ffedaf85" />
   <img width="48%" alt="admin_command" src="https://github.com/user-attachments/assets/6ac99a2c-c73d-4992-a13d-4cf4fce3d9e6" />
-  <img width="48%" alt="admin_2"
+  <img width="48%" alt="admin_2" src="https://github.com/user-attachments/assets/f95d6d0b-f6e1-4011-a4ed-619bd9740dc2" />
   <img width="48%" alt="client_menu_admin" src="https://github.com/user-attachments/assets/ed0d9ad2-e9d5-4c01-9890-1038d2222d09" />
 
 </div>
