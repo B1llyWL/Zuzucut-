@@ -47,14 +47,12 @@
 <details>
 <summary>User</summary>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img width="48%" 
+  <img width="48%" src="https://github.com/user-attachments/assets/0acf27a3-2a44-4661-9e2e-bc458b652945" />
   <img width="48%" alt="register" src="https://github.com/user-attachments/assets/56388351-5127-4263-a9dd-f4a817236d79" />
   <img width="48%" alt="register_1" src="https://github.com/user-attachments/assets/81f0b18a-644e-45e9-b444-e858a9c04cb3" />
   <img width="48%" alt="register_2" src="https://github.com/user-attachments/assets/41d9954b-be36-4710-ab56-3339cc429e81" />
   <img width="48%" alt="user_1" src="https://github.com/user-attachments/assets/c6442df4-02d2-497b-a898-483e22e42f9f" />
-
-  
-
+  <img width="48%" alt="user_2"  src="https://github.com/user-attachments/assets/5f8ef0ad-39f9-4038-962e-cbcdaabfe9df" />
 </div>
 </details>
 
