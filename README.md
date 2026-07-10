@@ -25,7 +25,7 @@
 ## Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4bd7bad0-8690-44a3-a93b-7789c574d1c2" />
+  <img src="https://github.com/user-attachments/assets/4bd7bad0-8690-44a3-a93b-7789c574d1c2" 
        alt="Bot interface"
        width="651"
        style="max-width:100%; height:auto; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
@@ -35,11 +35,12 @@
 <summary>Admin</summary>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
   <img width="48%" alt="admin"
-  <img width="48%" alt="admin_1" 
-  <img width="48%" alt="admin_templates" 
-  <img width="48%" alt="admin_command" 
+  <img width="48%" alt="admin_1" src="https://github.com/user-attachments/assets/2b05d758-7600-4334-891d-399a3d6d1a18" />
+  <img width="48%" alt="admin_templates" src="https://github.com/user-attachments/assets/3d6120dd-c9a6-4e8e-bfd6-8398c968b032" />
+  <img width="48%" alt="admin_command" src="https://github.com/user-attachments/assets/6ac99a2c-c73d-4992-a13d-4cf4fce3d9e6" />
   <img width="48%" alt="admin_2"
-  <img width="48%" alt="client_menu_admin" >
+  <img width="48%" alt="client_menu_admin" src="https://github.com/user-attachments/assets/ed0d9ad2-e9d5-4c01-9890-1038d2222d09" />
+
 </div>
 </details>
 
