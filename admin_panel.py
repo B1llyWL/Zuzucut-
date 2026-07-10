@@ -134,7 +134,7 @@ async def info_cmd(message: Message):
     """Команда-напоминалка"""
     await message.answer(
     "Бота необходимо перезапускать 1 раз в месяц. Таковы условия бесплатного тарифа.\n"
-    "Чтобы перезапустить бота зайди на сервер, кликни на вкладку <<Web>> и нажми на зеленую кнопку <<Reload Zuzucut.pythonanywhere.com>>\n",
+    "Чтобы перезапустить бота зайди на сервер, кликни на вкладку <<Web>> и нажми на зеленую кнопку <<Reload Zuzucut.pythonanywhere.com>>",
     reply_markup=akb.admin_menu, parse_mode="Markdown"
     )
 
